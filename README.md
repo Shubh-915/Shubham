@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Shubham Shelki  
+# 👋 Hi, I'm Shubham Shelki 
+I'm a Software Tester passionate about ensuring quality software through manual testing, programming, and agile practices. I'm eager to learn, grow, and make a positive impact in the tech industry."
+
+
 
 **Software Tester | Pune, India**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shubham-shelki-8835b1312/)  
